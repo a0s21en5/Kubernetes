@@ -173,5 +173,4 @@ Used for managing:
 
 ---
 
-
-![Kubernetes Architecture](assets/images/k8s-architecture.png)
+![K8s Diagram](https://raw.githubusercontent.com/a0s21en5/Kubernetes/main/k8s-architecture.png)
