@@ -172,3 +172,6 @@ Used for managing:
 - Cluster state  
 
 ---
+
+
+![Kubernetes Architecture](assets/images/k8s-architecture.png)
